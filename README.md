@@ -124,21 +124,21 @@ Sales-Insight-Analysis/
 ## Dashboards
 
 ### 1. Sales_insight
-![
+![Sales Insight](./Sales_Insight.png)
 
 ### Conclusion
 
 - The Sales Insights Dashboard helps users understand overall sales performance, identify major revenue contributors, compare market performance, and monitor monthly sales trends. These insights support better sales planning and business decision-making.
 
 ### 2. Profit_Analysis
-
+![Profit Analysis](./Profit_Analysis.png)
 
 ### Conclusion
 
 - The Profit Analysis Dashboard helps evaluate market-wise and customer-wise profitability. It highlights differences between revenue contribution and profit margin, helping businesses identify areas that may require cost control, pricing improvements, and better sales strategies.
 
 ### 3. Performance_Analysis
-
+![Performance Analysis](./Performance_Analysis.png)
 
 ### Conclusion
 
