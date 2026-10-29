@@ -1,4 +1,4 @@
-# E-Commerce Sales & Customer Analytics 
+# Sales-Insight-Analytics 
 
 ##  Project Overview
 
@@ -108,8 +108,8 @@ The dashboards can help users:
 
 ##  Project Structure
 
-```text
-Sales-Insight-Analytics/
+text
+Sales-Insight-Analysis/
 ├── Sales_insight dashboard.pbix
 ├── Sales transaction.csv
 ├── Sales customers.csv
@@ -124,7 +124,7 @@ Sales-Insight-Analytics/
 ## Dashboards
 
 ### 1. Sales_insight
-
+![
 
 ### Conclusion
 
