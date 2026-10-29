@@ -108,17 +108,26 @@ The dashboards can help users:
 
 ##  Project Structure
 
-text
 Sales-Insight-Analysis/
+
 ├── Sales_insight dashboard.pbix
+
 ├── Sales transaction.csv
+
 ├── Sales customers.csv
+
 ├── Sales products.csv
+
 ├── Sales date.csv
+
 ├── Sales market
+
 └── README.md
+
 ├── sales-analysis.png
+
 ├── customer-details.png
+
 └── product-performance.png
 
 ## Dashboards
